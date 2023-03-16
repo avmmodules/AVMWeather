@@ -1,10 +1,8 @@
 '''
-    Description:
-    Get weather data in a simple way.
-
-    Author: AlejandroV
+    Description: Get weather data in a simple way.
+    Author: aulerjbailey
     Version: 1.0.0
-    Video: ?
+    Video: https://youtu.be/UAVD6qK38kQ
 '''
 import requests as req
 
